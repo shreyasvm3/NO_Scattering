@@ -1,3 +1,5 @@
+Instructions for reading files
+
 Figure 1a: Column 1: time, Column 2: Z(t)
 
 Figure 1b: Column 1: time, Column 2: Pop(NO-)(t)
