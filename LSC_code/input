@@ -29,6 +29,6 @@ Gamma for MMST sampling
 Time grid: time step (in f.s.), number of steps, energy tol
 1.5d-2   26666	1.d-3
 Number of trajectorties
-2.d58333raj
+2.dinput-traj
 Number of checkpoints
 5
