@@ -7,3 +7,7 @@ Ei-.625,                      0,                      0,                      0
 Ei-.750,                      0,                      0,                      0
 Ei-.875,                      0,                      0,                      0
 Ei-1.000,                      0,                      0,                      0
+
+
+
+Total # of trajectories in all cases is 10^5. Added after checking files.
